@@ -1,0 +1,4 @@
+/* Pour ls css global seulement. Tout ce qui est des composants, on le met dans un fichier relié au composant */
+body{
+    background-color: rgb(71, 255, 163);
+}

@@ -1,0 +1,11 @@
+header{
+    background-color: #f2f2f2;
+    width: 100%;
+    border: 2px solid black;
+    
+    &.connexion{
+    background-color: black;
+    color: white;
+}
+}
+
